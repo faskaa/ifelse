@@ -15,6 +15,13 @@
             {
                 Console.WriteLine(number + 5);
             }
+
+            string firstName = "Fazil";
+            string secondName = "Bahramov";
+
+            Console.WriteLine(firstName + " " + secondName);
+            
+
         }
     }
 }
